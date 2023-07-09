@@ -65,7 +65,7 @@ mysql> create database abc_jobs
 <img src="./images/edit-profile.png" alt="profile" width="50%"/>
 <p>Search User</p>
 <img src="./images/search-user.png" alt="search" width="50%"/>
-<p>Admin Pages</p>
+
 <p>Admin Dashboard</p>
 <img src="./images/admin-dashboard.png" alt="admin" width="50%"/>
 <p>User Management</p>
