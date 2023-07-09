@@ -51,3 +51,24 @@ mysql> create database abc_jobs
 4. **Run application on Tomcat Server 9.0**
 
 ## Screenshot
+<p>Home Page</p>
+<img src="./images/homepage.png" alt="home_page" width="50%"/>
+<p>Register</p>
+<img src="./images/register.png" alt="register" width="50%"/>
+<p>Login</p>
+<img src="./images/login.png" alt="login" width="50%"/>
+<p>Dashboard</p>
+<img src="./images/dashboard.png" alt="search" width="50%"/>
+<p>Profile page</p>
+<img src="./images/profile.png" alt="profile" width="50%"/>
+<p>Edit Profile page</p>
+<img src="./images/edit-profile.png" alt="profile" width="50%"/>
+<p>Search User</p>
+<img src="./images/search-user.png" alt="search" width="50%"/>
+<p>Admin Pages</p>
+<p>Admin Dashboard</p>
+<img src="./images/admin-dashboard.png" alt="admin" width="50%"/>
+<p>User Management</p>
+<img src="./images/user-management.png" alt="admin" width="50%"/>
+<p>Send Bulk Email</p>
+<img src="./images/send-bulk-email.png" alt="admin" width="50%"/>
